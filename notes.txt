@@ -1,0 +1,5 @@
+Docker is a containerization platform.
+Docker containers package applications with their dependencies.
+Python virtual environments isolate Python dependencies.
+Ollama allows users to run language models locally.
+Agentic AI systems can use tools to accomplish objectives.
